@@ -5,4 +5,4 @@
 \deftab720
 \pard\pardeftab720\sl400\ql\qnatural
 
-\f0\fs32 \cf0 \cb2 This is my first file.}
+\f0\fs32 \cf0 \cb2 This is my first file that I added to my project.}
